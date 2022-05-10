@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FBB8E70A-8E87-4830-B9A8-0B78D1F5FCCB"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3E53DB30-3B7B-47C9-AB84-967148239BCB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Sources/Presentation/PaymentViewController/PaymentViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "setupApplePaySection()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1E9BDB8B-47B9-4683-92DA-53EC23024F3C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../TranzzoPaymentsSDK/Classes/UICommon/CreditCardTextField.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "116"
+            endingLineNumber = "116"
+            landmarkName = "formateCardNumber()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5634135D-4149-41DA-91ED-91D186465A53"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../TranzzoPaymentsSDK/Classes/Core/UI/UIColor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "adjustBrightness(by:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5BD15F48-23E0-4BE0-9F91-D1213BB029BC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../TranzzoPaymentsSDK/Classes/Core/UI/UIColor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "adjustBrightness(by:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "03AB1D99-F2A8-4FFB-AC05-6147E9C2E878"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../TranzzoPaymentsSDK/Classes/Core/Models/Private/CardDataModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "isEmpty()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4A2EFE88-6210-4C4F-8F38-DA5935394C4B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../TranzzoPaymentsSDK/Classes/Presentation/PaymentViewController/View/PaymentViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "513"
+            endingLineNumber = "513"
+            landmarkName = "checkPaymentStatus()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4A2EFE88-6210-4C4F-8F38-DA5935394C4B - 33f43e4f8a1eac0b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;TranzzoPaymentsSDK.PaymentInfoResponse&gt;, Swift.Optional&lt;TranzzoPaymentsSDK.TranzzoError&gt;) -&gt; () in TranzzoPaymentsSDK.PaymentViewController.checkPaymentStatus() -&gt; ()"
+                  moduleName = "TranzzoPaymentsSDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Projects/tranzzo_projects/mpsdk-ios-new/TranzzoPaymentsSDK/Classes/Presentation/PaymentViewController/View/PaymentViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "513"
+                  endingLineNumber = "513"
+                  offsetFromSymbolStart = "1025">
+               </Location>
+               <Location
+                  uuid = "4A2EFE88-6210-4C4F-8F38-DA5935394C4B - 33f43e4f8a1eac0b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;TranzzoPaymentsSDK.PaymentInfoResponse&gt;, Swift.Optional&lt;TranzzoPaymentsSDK.TranzzoError&gt;) -&gt; () in TranzzoPaymentsSDK.PaymentViewController.checkPaymentStatus() -&gt; ()"
+                  moduleName = "TranzzoPaymentsSDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Projects/tranzzo_projects/mpsdk-ios-new/TranzzoPaymentsSDK/Classes/Presentation/PaymentViewController/View/PaymentViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "513"
+                  endingLineNumber = "513"
+                  offsetFromSymbolStart = "1357">
+               </Location>
+               <Location
+                  uuid = "4A2EFE88-6210-4C4F-8F38-DA5935394C4B - 33f43e4f8a1eac0b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;TranzzoPaymentsSDK.PaymentInfoResponse&gt;, Swift.Optional&lt;TranzzoPaymentsSDK.TranzzoError&gt;) -&gt; () in TranzzoPaymentsSDK.PaymentViewController.checkPaymentStatus() -&gt; ()"
+                  moduleName = "TranzzoPaymentsSDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Projects/tranzzo_projects/mpsdk-ios-new/TranzzoPaymentsSDK/Classes/Presentation/PaymentViewController/View/PaymentViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "513"
+                  endingLineNumber = "513"
+                  offsetFromSymbolStart = "1172">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

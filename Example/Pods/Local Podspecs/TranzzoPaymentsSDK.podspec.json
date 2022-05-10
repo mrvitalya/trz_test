@@ -1,0 +1,37 @@
+{
+  "name": "TranzzoPaymentsSDK",
+  "version": "1.0.0",
+  "summary": "TranzzoPayments SDK",
+  "description": "Framework for Payments",
+  "homepage": "https://bitbucket.org/ftr-group/mpsdk-ios-new.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.md"
+  },
+  "authors": {
+    "Vitalii Stepanov": "v.stepanov@tranzzo.com"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "swift_versions": "5.0",
+  "source": {
+    "git": "https://bitbucket.org/ftr-group/mpsdk-ios-new.git"
+  },
+  "source_files": "TranzzoPaymentsSDK/Classes/**/*.{h,m,swift,storyboard,xib}",
+  "resources": [
+    "TranzzoPaymentsSDK/Assets/*.{xcassets,bundle}"
+  ],
+  "dependencies": {
+    "PayCardsRecognizer": [
+      "1.1.6"
+    ],
+    "OwlKit": [
+
+    ],
+    "AnyFormatKit": [
+
+    ]
+  },
+  "swift_version": "5.0"
+}
